@@ -1,0 +1,16 @@
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\detach.exe.config
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\detach.exe
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\detach.pdb
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\Geckofx-Core.dll
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\Geckofx-Winforms.dll
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\Geckofx-Core.pdb
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\Geckofx-Core.dll.config
+C:\Users\nguye\Desktop\detach\detach\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.Form1.resources
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.Properties.Resources.resources
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.csproj.CopyComplete
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.exe
+C:\Users\nguye\Desktop\detach\detach\obj\Debug\detach.pdb
